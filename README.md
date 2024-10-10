@@ -3,29 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    
 </head>
-<style>
-    .content{
-        display: flex;
-        align-items: center;
-        gap: 20px;
-    }
-    .content img{
-        width: 150px;
-        height: auto;
-        border-radius: 10px;
-        margin: 20px;
 
-    }
-    .content p{
-        flex: 1;
-    }
-    fieldset{
-        margin: 20px;
+    
 
-    }
-</style>
+  
 <body bgcolor="#eaeaea">
     <fieldset>
         <h1>
@@ -34,9 +17,7 @@
         <hr>
         <div class="content">
             <img src="img/randy2.jpeg" alt="">
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium quia molestias maxime mollitia modi similique reprehenderit quos quis iste nobis officiis numquam voluptate ipsa tempore unde pariatur, in quasi ab.
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero ex sit debitis? Fugit nesciunt fugiat perspiciatis quis, omnis, tempora est sit facilis pariatur quas perferendis, magnam minima debitis repudiandae eligendi.
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. At mollitia consectetur quibusdam cupiditate modi aperiam similique dolorem dolores temporibus a asperiores earum, perferendis sit fugiat excepturi sint, nesciunt ut! Cum!
+            <p>Perkenalkan nama saya Muhammad Randy Ilham Ardyansyah, Saya lahir di Malang Jawa Timur, saya anak pertama dari 3 bersaudara, saya lulusan dari SMK Negeri 1 Depok tahun ajar 2021 - 2024.
             </p>
         </div>
         <div class="mainConten">
